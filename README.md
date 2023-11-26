@@ -3,7 +3,7 @@
 ## Overview
 
 The Comic Strip Generator is a web application that allows users to create and share their own 10-panel comic strips. Users can input text for each panel, and the application uses a text-to-image API to generate comic panels. The generated comic strips are displayed in a user-friendly format.
-
+![Comic Strip Generator](images/Screenshot%202023-11-26%20181750.png)
 ## Key Features
 
 1. **User-Friendly Interface:**
