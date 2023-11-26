@@ -23,6 +23,7 @@ The Comic Strip Generator is a web application that allows users to create and s
 
 5. **Loading Message:**
    - A loading message is displayed when users click the "Generate Comic" button, providing a fun waiting experience.
+   - ![Comic Strip Generator](images/Screenshot (136).png).
 
 6. **Inline Display:**
    - The generated comic strips are displayed in an inline format, with a minimum of 5 pictures in a row.
